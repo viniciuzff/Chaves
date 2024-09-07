@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Imersão Div</title>
+    <link rel="shortcut icon" href="img/barril.ico" type="image/x-icon">
+
+</head>
+<body>
+    <header><!--Cabeçalho-->
+       
+        <h1></h1>
+    </header>
+
+    <main><!--conteudo-->
+        <section>
+            <img src="img/chaves2.png" alt="" >
+             <input type="text" placeholder="digite algum personagem da vila.." id="campo-pesquisa">
+                <div class="container">
+                    <button onclick="pesquisar()" style="display: inline-block; text-align: center;">pesquisar</button>
+                    <a href="../home.html"><button onclick="limpar()" style="display: inline-block; text-align: center;">Voltar</button></a>
+                </div>
+        </section>
+        <section class="resultados-pesquisa" id="resultados-pesquisa">
+
+        </section>
+    </main>
+
+    <footer><!--Rodapé-->
+        <p>&copy; 2024 Meu Site Inc. Todos os direitos reservados.</p>
+        <p>Entre em conatato pelo e-mail: Viniciusviff14@gmail.com</p>
+    </footer>
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
