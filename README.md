@@ -31,24 +31,4 @@ Adoraria ver mais gente contribuindo para esse projeto! Se você sabe programar,
 * **Melhorar a interface:** Deixe a aplicação ainda mais bonita e fácil de usar.
 * **Corrigir bugs:** Ajude a encontrar e corrigir qualquer erro que possa surgir.
 
-**Observações:**
 
-* **Dados:** Os dados dos personagens estão no arquivo `dados.js`. Você pode editar esse arquivo para adicionar ou modificar informações.
-* **Estilos:** O arquivo `styles.css` contém todos os estilos da aplicação. Você pode personalizar as cores, fontes e layout.
-* **Funcionalidades:** A lógica da pesquisa está no arquivo `app.js`. Você pode adicionar novas funcionalidades, como filtros ou ordenação dos resultados.
-
-**Vamos juntos fazer essa Vila do Chaves ainda mais incrível!**
-
-**#VilaDoChaves #Programação #JavaScript #HTML #CSS**
-
-**Observação:** Adapte este README.md para o seu projeto específico, incluindo mais detalhes sobre as funcionalidades, como contribuir e outras informações relevantes. 
-
-**Dicas:**
-
-* Use emojis para deixar o texto mais divertido e fácil de ler.
-* Adicione imagens ou GIFs para ilustrar o README.
-* Crie seções claras e organizadas para facilitar a navegação.
-* Use uma linguagem clara e objetiva, evitando termos técnicos demais.
-* Incentive a colaboração e o feedback.
-
-Com um README bem feito, você atrairá mais pessoas para o seu projeto e facilitará a vida de quem quiser contribuir.
